@@ -1,0 +1,5 @@
+--------------------------------
+Sequence: NC_045512.2 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome
+Length: 29903
+A: 8954, T: 9594, G: 5863, C: 5492
+GC Content: 37.97%
